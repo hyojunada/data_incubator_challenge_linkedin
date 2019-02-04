@@ -30,4 +30,4 @@ This data will consist of stock prices over time for each company
 
 ## Preliminary Analysis
 ### LinkedIn follower trends
-![fig1](https://github.com/hyojunada/data_incubator/blob/master/result/followers_to_size_ratio.pdf)
+![fig1](https://github.com/hyojunada/data_incubator/blob/master/result/followers_to_size_ratio.eps)
