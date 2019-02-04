@@ -53,7 +53,7 @@ def main():
     print('A mean {}'.format(df.A.mean()))
     print('S mean {}'.format(df.S.mean()))
     print('A std {}'.format(df.A.std()))
-    print('S std {}'.format(df.A.std()))
+    print('S std {}'.format(df.S.std()))
     
 if __name__ == '__main__':
     main()
