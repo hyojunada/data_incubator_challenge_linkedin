@@ -2,7 +2,7 @@
 # Can opinions of the current and potential employees predict performance and growth of a company?
 
 ## Project Summary
-I propose to build a predictive model relating opinions by the employees and job seekers of a company to the potential growth of the company. Job seekers and employees are the people who are highly interested in the company, therefore their opinions about the company can be a sensitive predictor of how well the company will do in the future. The goal is to see whether user activities on LinkedIn and Glassdoor can predict the potential growth and performance of the company. Here, I use reviews and follower data on Glassdoor and LinkedIn as the indicators of opnions and the stock prices and job postings as indicators of the company's performace and growth. 
+I propose to build a predictive model relating opinions by the employees and job seekers of a company to the potential growth of the company. Job seekers and employees are the people who are highly interested in the company, therefore their opinions about the company can be sensitive towards the company's performace changes although it may not be apparent. The goal is to see whether these opinions can predict the future of a company. Here, I use reviews and follower data on Glassdoor and LinkedIn as the indicators of opnions and the stock prices and job postings as indicators of the company's performace and growth. 
 
 ## Project motivation
 
