@@ -42,3 +42,11 @@ Then I looked at the changes in follower size (normalized over company's size) o
 Shown below is the example for Investment Banking industry. From this I can identify which company's gaining more followers and whether it's growing faster or slower than the company norm. In [this notebook](https://github.com/hyojunada/data_incubator/blob/master/notebook/Section3-fig2_increase_of_followers_over_time.ipynb) you can do this for individual companies and see aggregated result for the entire industry. The aggregated result for the entire industry shows how much online interst the industry has compared to its size and whether the interest is growing or not. 
 
 ![fig2](https://github.com/hyojunada/data_incubator/blob/master/result/followers_size_over_time_Investment%20Banking.png)
+
+## Next Steps
+### Data aquisition and exploration
+1. Use Glassdor reviews to measure employees and interviewees' opinions on the companys over time. 
+2. Use the Job posting data to measure the expansion of a company as a measure of growth
+3. Use the stock prices over time to measure the performance of a company.
+## Build predictive model
+After elementary analysis reveals an underlying trend that prompts further exploration. For my project I propose to expand these efforts by building a model that takes advantage of the underlying trend in four different data sets. I will combine LinkedIn and Glassdoor data as predictors and Job posting and stock prices as one target variable. The model will allow job seekers to be able to evaluate the potential growth of a company and this can be expanded to other groups of interests such as investorsin when evaluating a company.
