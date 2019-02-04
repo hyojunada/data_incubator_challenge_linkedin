@@ -30,4 +30,14 @@ This data will consist of stock prices over time for each company
 
 ## Preliminary Analysis
 ### LinkedIn follower trends
+As a preliminary analysis I looked at the size of the followers for each company on LinkedIn and normalized for its size. As the estimation of company size, I used the number of employees on LinkedIn. 
+The follower size can be divided into 3 groups, 0-100, 100-300 and 300-600. 
+Which means the group that has larger follower size is attracting more followers online, which can be an indicator for potential growth
+
 ![fig1](https://github.com/hyojunada/data_incubator/blob/master/result/followers_to_size_ratio.png)
+
+
+Then I looked at the changes in follower size (normalized over company's size) over time for individual companies in each industry
+Shown below is the example for Investment Banking industry. From this I can identify which company's gaining more followers and whether it's growing faster or slower than the company norm. In [this notebook](https://github.com/hyojunada/data_incubator/blob/master/notebook/Section3-fig2_increase_of_followers_over_time.ipynb) you can do this for individual companies and see aggregated result for the entire industry. The aggregated result for the entire industry shows how much online interst the industry has compared to its size and whether the interest is growing or not. 
+
+![fig2](https://github.com/hyojunada/data_incubator/blob/master/result/followers_size_over_time_Investment%20Banking.png)
