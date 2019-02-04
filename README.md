@@ -28,3 +28,5 @@ This database tracks individual job postings on corporate websites, allowing res
 
 This data will consist of stock prices over time for each company
 
+## Preliminary Analysis
+### LinkedIn follower trends
