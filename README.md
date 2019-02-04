@@ -10,17 +10,21 @@ As an active job seeker, one of my main criteria in finding the right place to w
 
 ## Project data
 ### Opinions data
- - Linkedin Profiles
+ - **Linkedin Profiles**
+ 
 This database tracks and records the number of employees across companies on daily basis and provides real time insight into how aggressively a company is growing vs its own plans and within its industry.
 
- - Glassdoor reviews
+ - **Glassdoor reviews**
+ 
 The data will consist of reviews on the company fromthe employees and employers.
  
 ### Performance data
 
-- Job Postings
+- **Job Postings**
+
 This database tracks individual job postings on corporate websites, allowing researchers and data scientists to view overall hiring plans of a company overtime. As well as historical data, users explore in a great detail what types of positions a company is looking to fill, where a company is looking to grow geographically, and in what specific product/business lines the company is looking to expand the most.
 
-- Stock prices
+- **Stock prices**
+
 This data will consist of stock prices over time for each company
 
