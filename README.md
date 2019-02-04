@@ -1,8 +1,8 @@
 # Data Incubator Project Challenge
-# Using company's review and activities on LinkedIn/Glassdoor to predict their performance
+# Can opinions of the current and potential employees predict performance and growth of a company?
 
 ## Project Summary
-I propose to build a predictive model relating how people in job seeking position view it as their potential employer to the value of the company in the market. Job seekers and employees are the people who are highly interested in the company, therefore there opinions about the company can be a sensitive predictor of how well the company will do in the future. The goal is to see whether user activities on LinkedIn and Glassdoor can predict the stock prices of the company. I will use NLP to quantify reviews and assortment of factors from LinkedIn and Glassdoor. The stock prices will be used as indicators of the company's performance. 
+I propose to build a predictive model relating opinions by the employees and job seekers of a company to the potential growth of the company. Job seekers and employees are the people who are highly interested in the company, therefore their opinions about the company can be a sensitive predictor of how well the company will do in the future. The goal is to see whether user activities on LinkedIn and Glassdoor can predict the potential growth and performance of the company. Here, I use reviews and follower data on Glassdoor and LinkedIn as the indicators of opnions and the stock prices and job postings as indicators of the company's performace and growth. 
 
 ## Project motivation
 
