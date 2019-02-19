@@ -1,0 +1,26 @@
+import numpy as np
+import pandas as pd
+import glob
+from os.path import splitext, basename
+from scipy.stats import linregress
+from operator import itemgetter
+
+import matplotlib.pyplot as plt
+
+def replace_and(x):
+    """
+    if & or &amp; in value, replace it with /
+    """
+    replace_list = ['&amp;','/amp;','&']
+    for i in replace_list:
+        if i in x:
+            y = x.replace(i, '/')
+            break
+        else:
+            y = x
+    return y
+    
+
+df = pd.read_csv('../data/section_3/temp_datalab_records_linkedin_company.csv')
+df['as_of_date'] = pd.to_datetime(df.as_of_date)
+df = df.dropna(subset=['industry'])
